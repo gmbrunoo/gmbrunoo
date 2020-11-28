@@ -1,8 +1,8 @@
 <img align="right" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas"></p>
 
-<br />
 
 Desenvolvedor Front-End | Design 💻🖊
 <br />
@@ -16,6 +16,7 @@ Estudante no curso de Sistemas para internet 📚
 ✔ 🎮 Adoro jogar video games e nas horas vagas desenhar 🎨<br />
 ✔ 🎧 Qual desenvolvedor não adora ouvir uma boa musica? 🤘🏼<br />
 ✔ 📈 A melhor maneira de aprender é ensinando! Por isso gosto de contribuir! 😎<br />
+
 
 ### 🚀 Algumas ferramentas que uso: 🛸
 
@@ -31,7 +32,7 @@ Estudante no curso de Sistemas para internet 📚
 
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
@@ -43,12 +44,17 @@ Estudante no curso de Sistemas para internet 📚
 ## Status e Estatísticas:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmbrunoo&hide=issues&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5"  />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmbrunoo&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5"  />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=tokyonight " />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=synthwave" />
 </a>
+<br />
+<br />
 
-<br />
-<br />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="visitors"></p>
+<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
+
+### Tocando no Spotify 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22anglzy6xh42gm3572a6h42y)
+
