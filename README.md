@@ -32,6 +32,7 @@ Estudante no curso de Sistemas para internet 📚
 
 ## Status e Estatística
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmbrunoo&show_icons=true&theme=tokyonight)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmatthewsfeuer&layout=compact&theme=dark" />
 </a>
