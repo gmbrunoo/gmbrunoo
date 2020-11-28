@@ -34,7 +34,7 @@ Estudante no curso de Sistemas para internet 📚
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmbrunoo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=tokyonight)](https://github.com/gmbrunoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=tokyonight)
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=gmbrunoo&show_icons=true&count_private=true&theme=tokyonight" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="visitors"></p>
