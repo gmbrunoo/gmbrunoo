@@ -35,10 +35,12 @@ Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="svelte" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
- 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="php" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/mysql.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
