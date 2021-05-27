@@ -45,7 +45,6 @@ Tools
  
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="25" height="25" />
 
 </p>
 
