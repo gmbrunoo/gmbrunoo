@@ -18,7 +18,7 @@ Estudante no curso de Sistemas para internet 📚
 ✔ 📈 A melhor maneira de aprender é ensinando! Por isso gosto de contribuir! 😎<br />
 
 
-### 🚀 Algumas ferramentas que uso: 🛸
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Algumas ferramentas que uso: 🛸
 
 <!-- <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/></code>
