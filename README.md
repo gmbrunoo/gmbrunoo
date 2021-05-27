@@ -31,15 +31,22 @@ Estudante no curso de Sistemas para internet 📚
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code> -->
 
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-<!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;-->
+Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="svelte" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-aws.svg" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
+</p>
+
 
 ## Status e Estatísticas:
 
@@ -58,7 +65,4 @@ Estudante no curso de Sistemas para internet 📚
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22anglzy6xh42gm3572a6h42y)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
