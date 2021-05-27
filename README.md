@@ -2,8 +2,10 @@
 
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas">
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/bruno-godinho-562246137)</p>
 
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)
+  
+</p>
 
 Desenvolvedor Front-End | Design 💻🖊
 <br />
@@ -55,6 +57,7 @@ Tools
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmbrunoo&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5"  />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=synthwave" />
 </a>
