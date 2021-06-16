@@ -1,4 +1,4 @@
-<img align="right" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1750192092558773394/FF8A667973EBA3AC713DAB6EC7600C55BB8BE9A5/?imw=640&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas">
