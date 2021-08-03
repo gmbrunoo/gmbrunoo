@@ -46,10 +46,6 @@ Estudante no curso de Sistemas para internet 📚 -->
 <br />
 
 <!-- ![Bruno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmbrunoo&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2) -->
+<!-- GitHub Skyline image: https://skyline.github.com/gmbrunoo/2020.png -->
 
-## Tocando no Spotify 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22anglzy6xh42gm3572a6h42y)
-<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
-
-<a href="https://skyline.github.com/gmbrunoo/2020" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/109075418-15b9ce00-76c7-11eb-9692-ecc89fffd8f8.png" alt="2020 GitHub Skyline" width="100%" /></a>
+<a href="https://skyline.github.com/gmbrunoo/2020" title="2021 GitHub Skyline"><img src="https://skyline.github.com/gmbrunoo/2020.png" alt="2020 GitHub Skyline" width="100%" /></a>
