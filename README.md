@@ -1,8 +1,8 @@
-<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1750192092558773394/FF8A667973EBA3AC713DAB6EC7600C55BB8BE9A5/?imw=640&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
 
-<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=350&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=350&height=45"></a>
+
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1750192092558773394/FF8A667973EBA3AC713DAB6EC7600C55BB8BE9A5/?imw=640&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
   
 <!-- Desenvolvedor Front-End | Design 💻🖊
 <br />
