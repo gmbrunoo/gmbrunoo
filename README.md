@@ -20,21 +20,7 @@ Estudante no curso de Sistemas para internet 📚
 ✔ 🎧 Qual desenvolvedor não adora ouvir uma boa musica? 🤘🏼<br />
 ✔ 📈 A melhor maneira de aprender é ensinando! Por isso gosto de contribuir! 😎<br />
 
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Algumas ferramentas que uso: 🛸
-
-<!-- <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="36" height="36"/></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code> -->
-
-
-Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Algumas ferramentas que uso: 🛸
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
@@ -48,7 +34,6 @@ Tools
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" alt="Docker" width="25" height="25" />
-
 </p>
 
 ## Status e Estatísticas:
@@ -61,11 +46,9 @@ Tools
 
 <!-- ![Bruno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmbrunoo&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2) -->
 
-
-<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
-
-### Tocando no Spotify 🎧
+## Tocando no Spotify 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22anglzy6xh42gm3572a6h42y)
+<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
 
 
