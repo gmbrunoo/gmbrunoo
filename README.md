@@ -21,7 +21,7 @@ Estudante no curso de Sistemas para internet 📚 -->
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/bruno-godinho-562246137)
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Algumas ferramentas que uso: 🛸
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Ferramentas que uso: 🛸
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
