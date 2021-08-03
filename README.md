@@ -2,12 +2,7 @@
 
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
 
-<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=380&height=45"></a>
-
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas">
-
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/bruno-godinho-562246137)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=380&height=45"></a>
   
 <!-- Desenvolvedor Front-End | Design 💻🖊
 <br />
@@ -21,6 +16,10 @@ Estudante no curso de Sistemas para internet 📚 -->
 ✔ 🎮 Adoro jogar video games e nas horas vagas desenhar 🎨<br />
 ✔ 🎧 Qual desenvolvedor não adora ouvir uma boa musica? 🤘🏼<br />
 ✔ 📈 A melhor maneira de aprender é ensinando! Por isso gosto de contribuir! 😎<br />
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas">
+
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/bruno-godinho-562246137)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  Algumas ferramentas que uso: 🛸
 
