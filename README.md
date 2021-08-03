@@ -51,18 +51,16 @@ Tools
 
 </p>
 
-
 ## Status e Estatísticas:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gmbrunoo&hide=issues&theme=synthwave&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5"  />
-</a>
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmbrunoo&issues&theme=tokyonight&border_radius=15&hide_border=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=synthwave" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbrunoo&layout=compact&theme=tokyonight&border_radius=15&hide_border=true)
+
 <br />
-<br />
+
+<!-- ![Bruno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmbrunoo&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2) -->
+
 
 <img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/27/6f/27/276f273d11f8b9dbc0a9c55bb38ea8c6.gif" />
 
