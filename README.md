@@ -2,7 +2,7 @@
 
 # Olá! Meu nome é Bruno, seja bem vindo ao meu perfil! 🖖🏼
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=380&height=45"></a>
+<a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End%20Jr;Estudando%20UX%2FUi;Cursando%20sistemas%20para%20internet&center=false&width=380&height=45"></a>
 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=gmbrunoo.gmbrunoo" alt="Visitas">
