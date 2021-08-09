@@ -48,4 +48,4 @@ Estudante no curso de Sistemas para internet 📚 -->
 <!-- ![Bruno's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmbrunoo&theme=dracula&bg_color=1a1b27&hide_border=true&border_radius=15&color=70A4FC&point=38bdae&line=be90f2) -->
 <!-- GitHub Skyline image: https://skyline.github.com/gmbrunoo/2020.png -->
 
-<a target="_blank" href="https://skyline.github.com/gmbrunoo/2020" title="2021 GitHub Skyline"><img src="https://skyline.github.com/gmbrunoo/2020.png" alt="2020 GitHub Skyline" width="100%" /></a>
+<a target="_blank" href="https://skyline.github.com/gmbrunoo/2021" title="2021 GitHub Skyline"><img src="https://skyline.github.com/gmbrunoo/2021.png" alt="2021 GitHub Skyline" width="100%" /></a>
